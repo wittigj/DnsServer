@@ -42,6 +42,6 @@ EXPOSE \
 # https://github.com/opencontainers/image-spec/blob/main/annotations.md
 LABEL org.opencontainers.image.title="Technitium DNS Server"
 LABEL org.opencontainers.image.vendor="Technitium"
-LABEL org.opencontainers.image.source="https://github.com/TechnitiumSoftware/DnsServer"
+LABEL org.opencontainers.image.source="https://github.com/wittigj/DnsServer"
 LABEL org.opencontainers.image.url="https://technitium.com/dns/"
 LABEL org.opencontainers.image.authors="support@technitium.com"
